@@ -1,4 +1,4 @@
 👋 Hi devs, My name is Ricky
     // Get to know me ->
- - Pyhton beginner
+ - Programmer Begginer
  - CyberSecurity Student
